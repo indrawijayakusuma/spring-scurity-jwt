@@ -37,7 +37,7 @@ To run this project locally, ensure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/spring-security-jwt.git
+https://github.com/indrawijayakusuma/spring-security-jwt.git
 ```
 2. Configure the MySQL database:
 
